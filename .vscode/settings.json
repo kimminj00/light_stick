@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "my_uart.h": "c",
+        "user_data.h": "c"
+    }
+}

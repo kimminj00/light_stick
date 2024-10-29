@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.silabs.ss.framework.ide.project.core.cdtMbsProjectType">
+		<item value="LINK" key="importOption"/>
+		<list key="fileLocationHistory">
+			<item value="C:\SiliconLabs\20210311_siliconLabs_code"/>
+		</list>
+		<list key="fileLocations">
+			<item value="C:\SiliconLabs\20210311_siliconLabs_code"/>
+		</list>
+	</section>
+</section>
